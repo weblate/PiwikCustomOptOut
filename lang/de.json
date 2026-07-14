@@ -4,7 +4,7 @@
         "DefaultCssFileDescription": "Diese CSS-Datei wird genutzt, wenn keine Seite ausgewählt ist.",
         "DefaultCssStyles": "Standard-Stylesheets",
         "DefaultCssStylesDescription": "Diese CSS-Styles werden genutzt, wenn keine Seite ausgewählt ist.",
-        "EditorThemeDescription": "Wähle einen Theme für den CSS Editor.",
+        "EditorThemeDescription": "Wähle einen Thema für den CSS Editor.",
         "EditorThemeOptionName": "Editor Theme",
         "EnableJavascriptInjection": "JavaScript-Felder aktivieren",
         "EnableJavascriptInjectionDescription": "Bei der Aktivierung werden Felder angezeigt, welche Javascript beinhalten dürfen.",
