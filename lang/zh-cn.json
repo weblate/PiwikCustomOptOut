@@ -1,11 +1,13 @@
 {
     "CustomOptOut": {
         "DefaultCssFile": "默认样式表文件",
+        "DefaultCssFileDescription": "如果没有选择任何页面，会使用该 CSS 文件。",
         "DefaultCssStyles": "默认样式表",
+        "DefaultCssStylesDescription": "如果没有选择任何页面，会使用这些 CSS 样式。",
         "EditorThemeDescription": "为编辑器选择一个主题。",
         "EditorThemeOptionName": "编辑主题",
-        "EnableJavascriptInjection": "启用Javascript字段",
-        "EnableJavascriptInjectionDescription": "启用此选项可显示要输入javascript的字段。",
+        "EnableJavascriptInjection": "启用JavaScript字段",
+        "EnableJavascriptInjectionDescription": "开启此选项以展示要输入JavaScript的字段。",
         "ShowEditorDescription": "启用此选项可在简易CSS编辑器中显示“自定义CSS”代码。",
         "ShowEditorOptionName": "启用 CSS 编辑器"
     }
