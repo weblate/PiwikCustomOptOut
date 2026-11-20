@@ -1,1 +1,14 @@
-{}
+{
+    "CustomOptOut": {
+        "DefaultCssFile": "Fișier de foaie de stil implicit",
+        "DefaultCssFileDescription": "Acest fișier CSS va fi folosit dacă nu este selectată nicio pagină.",
+        "DefaultCssStyles": "Foi de stil implicite",
+        "DefaultCssStylesDescription": "Aceste stiluri CSS vor fi folosite dacă nu este selectată nicio pagină.",
+        "EditorThemeDescription": "Alegeți o temă pentru editor.",
+        "EditorThemeOptionName": "Tema editorului",
+        "EnableJavascriptInjection": "Activare câmpuri JavaScript",
+        "EnableJavascriptInjectionDescription": "Activați această opțiune pentru a afișa câmpuri în care puteți introduce JavaScript.",
+        "ShowEditorDescription": "Activați această opțiune pentru a afișa codul \"custom CSS\" într-un editor CSS simplu.",
+        "ShowEditorOptionName": "Activare editor CSS"
+    }
+}
