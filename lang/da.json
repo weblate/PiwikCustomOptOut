@@ -1,7 +1,14 @@
 {
     "CustomOptOut": {
-        "ShowEditorOptionName": "Aktiver CSS-editor",
+        "DefaultCssFile": "Standardfil til typografiark",
         "DefaultCssFileDescription": "Denne CSS-fil vil blive brugt, hvis ingen side er valgt.",
-        "EnableJavascriptInjection": "Aktiver JavaScript-felter"
+        "DefaultCssStyles": "Standardtypografiark",
+        "DefaultCssStylesDescription": "Disse CSS-stilarter bruges, hvis der ikke er valgt en side.",
+        "EditorThemeDescription": "Vælg et tema til editoren.",
+        "EditorThemeOptionName": "Editortema",
+        "EnableJavascriptInjection": "Aktiver JavaScript-felter",
+        "EnableJavascriptInjectionDescription": "Aktiver denne indstilling for at vise felter til indtastning af JavaScript.",
+        "ShowEditorDescription": "Aktiver denne indstilling for at vise koden for \"brugerdefineret CSS\" i en enkel CSS-editor.",
+        "ShowEditorOptionName": "Aktiver CSS-editor"
     }
 }
